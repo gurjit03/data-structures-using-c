@@ -41,7 +41,6 @@ int main() {
 		scanf(" %c", &ans);
 	}while(ans != 'q');
 
-	printf("bye bye !");
     return 0;	
 }
 
